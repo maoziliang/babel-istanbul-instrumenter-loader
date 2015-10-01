@@ -4,7 +4,7 @@
   "description": "babel stanbul instrumenter loader",
   "main": "index.js",
   "dependencies": {
-    "babel-istanbul": "^0.2.9"
+    "babel-istanbul": "^0.3.20"
   },
   "devDependencies": {},
   "scripts": {
